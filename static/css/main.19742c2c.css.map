@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.19742c2c.css","mappings":"AAAA,MACI,qBAAuB,CACvB,uBAA0B,CAC1B,sCACJ,CACA,YACI,qBACJ","sources":["app.css"],"sourcesContent":[".glow {\n    background-color: black;\n    transition-duration: 100ms;\n    transition-timing-function: ease-in-out;\n}\n.glow:hover {\n    background-color: rgb(0, 51, 51);\n}"],"names":[],"sourceRoot":""}
